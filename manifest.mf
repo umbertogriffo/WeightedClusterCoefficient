@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: umberto.WeightedClusterCoefficient
+OpenIDE-Module-Localizing-Bundle: umberto/WeightedClusterCoefficient/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
