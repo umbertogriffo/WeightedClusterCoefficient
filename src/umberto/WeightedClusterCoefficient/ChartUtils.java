@@ -111,8 +111,8 @@ public abstract class ChartUtils {
         //set x axis
         logxAxis.setBase(10);
         logxAxis.setStandardTickUnits(LogAxis.createLogTickUnits(Locale.ENGLISH));
-//        logxAxis.setAutoRange(true);
-        logxAxis.setRange(0.00001, 1.0);//Se la voglio zoommare
+        logxAxis.setAutoRange(true);
+        //logxAxis.setRange(0.00001, 1.0);//Se la voglio zoommare
         plot.setDomainAxis(logxAxis);
     }
     
