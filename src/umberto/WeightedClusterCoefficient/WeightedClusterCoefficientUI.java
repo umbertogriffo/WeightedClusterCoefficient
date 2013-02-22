@@ -97,4 +97,9 @@ public class WeightedClusterCoefficientUI implements StatisticsUI {
     public int getPosition() {
         return 303;
     }
+
+    @Override
+    public String getShortDescription() {
+        return "This plugins allows to calculate the Weighted Cluster Coefficient for every node and the average value.";
+    }
 }
