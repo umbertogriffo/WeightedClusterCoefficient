@@ -2,7 +2,7 @@
 * Author: Umberto Griffo
 * Twitter: @UmbertoGriffo
 
-This plugins allows to calculate the Weighted Cluster Coefficient for every node and the average value.
+This plugin allows to calculate the Weighted Cluster Coefficient for every node and the average value.
 
 ###Example:
 ![erdos](http://img221.imageshack.us/img221/630/wcoeff.png)
