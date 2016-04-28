@@ -5,7 +5,7 @@
 This plugin allows to calculate the Weighted Cluster Coefficient for every node and the average value.
 
 ###Example:
-![erdos](http://img221.imageshack.us/img221/630/wcoeff.png)
+![erdos](https://www.dropbox.com/s/lyia0eq6ulbnpr8/WCoeff.png)
 
 The weighted clustering capture more precisely the effective level of cohesiveness and affinity due to the actual interaction strength.
 
